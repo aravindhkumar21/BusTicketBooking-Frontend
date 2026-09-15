@@ -45,12 +45,12 @@ const Footer = () => {
           <div className="footer-contact">
             <span>
               <Mail size={15} />
-              support@busbooking.com
+              aravindhkumarpofficial@gmail.com
             </span>
 
             <span>
               <Phone size={15} />
-              +91 98765 43210
+              +91 9965456360
             </span>
           </div>
         </motion.div>
